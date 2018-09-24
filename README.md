@@ -5,4 +5,4 @@ Collaborators: Gilles Hanin, Bastien Glauser, Jonas Glatz, Lukas Schreiner
 This project uses a script that steers a Raspberry Pi 3 that imports the events in a google calender.
 LEDs on the watch light up whereever there is an event in that hour. 
 
-![alt text](Smart_Watch/Pictures/smartwatch.jpg)
+![Alt text](Smart_Watch/Pictures/smartwatch.jpg?raw=true "Smart Watch")
