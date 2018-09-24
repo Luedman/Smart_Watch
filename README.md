@@ -6,5 +6,5 @@ This project uses a script that steers a Raspberry Pi 3 that imports the events 
 LEDs on the watch light up whereever there is an event in that hour. 
 
 <div align='center'>
-  <img src='Smart_Watch/Pictures/smartwatch.jpg' height="225px">
+  <img src='Pictures/smartwatch.jpg' height="225px">
 </div>
